@@ -1,6 +1,7 @@
 # Flutter Welcome Page
 
-![How does it looks?](https://github.com/KirbyRedius/Flutter-Welcome-Page/blob/main/images/icon.jpg)
+# How does it looks?
+![How does it looks](https://github.com/KirbyRedius/Flutter-Welcome-Page/blob/main/images/icon.jpg)
 
 
 ## Getting Started
