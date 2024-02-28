@@ -1,8 +1,6 @@
 # Flutter Welcome Page
 
-# How does it looks?
-
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/KirbyRedius/Flutter-Welcome-Page/blob/main/images/icon.jpg))
+![How does it looks?]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/KirbyRedius/Flutter-Welcome-Page/blob/main/images/icon.jpg))
 
 
 ## Getting Started
